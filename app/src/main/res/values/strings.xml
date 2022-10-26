@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">simple_activityAbi</string>
+    <string name="hint_name">simple_activityAbi</string>
+    <string name="submit">simple_activityAbi</string>
+    <string name="hint_year">Masukkan tahun</string>
+    <string name="masukkan_tahun_lahir">masukkan tahun</string>
+</resources>
